@@ -1,1 +1,1 @@
-# World-Happiness-Analysis
+# For this project, I investigated open source data on 2021 World Happiness across all countries. While analyzing the data, I determined four factors that have significant impact on a country's happiness: GDP Per Capita, Social Support, Healthy Life Expectancy, and Freedom to make life choices
